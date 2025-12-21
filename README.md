@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Burak</h1>
+<p align="center">
+AI / ML Engineer working on machine learning, deep learning, and LLM-based applications.<br/>
+Focused on building clean, production-oriented ML systems.
+</p>
 
-<!--
-**burakkyildiz/burakkyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Interests**
+- Machine Learning & Deep Learning  
+- Large Language Models (LLMs)  
+- LLM-powered application development  
 
-Here are some ideas to get you started:
+**Tech**
+- **Python**
+- **ML/DL:** TensorFlow/Keras, PyTorch, scikit-learn
+- **LLMs:** OpenAI-compatible APIs, Ollama, OpenRouter
+- **Data & Visualization:** NumPy, Pandas, Matplotlib, Seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building **end-to-end ML systems**, with hands-on experience in **LLM-based applications**.
