@@ -16,3 +16,7 @@ Focused on building clean, production-oriented ML systems.
 - **Data & Visualization:** NumPy, Pandas, Matplotlib, Seaborn
 
 Building **end-to-end ML systems**, with hands-on experience in **LLM-based applications**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/burakkyildiz)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)](https://kaggle.com/burakkyildiz)
