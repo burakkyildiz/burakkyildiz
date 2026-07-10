@@ -6,17 +6,27 @@ Focused on building clean, production-oriented ML systems.
 
 **Interests**
 - Machine Learning & Deep Learning  
-- Large Language Models (LLMs)  
+- Large Language Models (LLMs) & LangChain / RAG Systems
 - LLM-powered application development  
 
 **Tech**
 - **Python**
 - **ML/DL:** TensorFlow/Keras, PyTorch, scikit-learn
-- **LLMs:** OpenAI-compatible APIs, Ollama, OpenRouter
+- **LLMs:** OpenAI-compatible APIs, Ollama, OpenRouter, LangChain
 - **Data & Visualization:** NumPy, Pandas, Matplotlib, Seaborn
 
 Building **end-to-end ML systems**, with hands-on experience in **LLM-based applications**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/burakkyildiz)
-&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)](https://kaggle.com/burakkyildiz)
+<p align="left">
+  <a href="https://linkedin.com/in/burakkyildiz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://kaggle.com/burakkyildiz" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle" alt="Kaggle">
+  </a>
+  &nbsp;
+  <a href="https://github.com/burakkyildiz/burakkyildiz/blob/main/Burak_Yildiz.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume%20%2F%20CV-Download-red?logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
+</p>
