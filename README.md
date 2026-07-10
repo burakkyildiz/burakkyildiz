@@ -18,15 +18,7 @@ Focused on building clean, production-oriented ML systems.
 Building **end-to-end ML systems**, with hands-on experience in **LLM-based applications**.
 
 <p align="left">
-  <a href="https://linkedin.com/in/burakkyildiz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://kaggle.com/burakkyildiz" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle" alt="Kaggle">
-  </a>
-  &nbsp;
-  <a href="https://github.com/burakkyildiz/burakkyildiz/blob/main/Burak_Yildiz.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume%20%2F%20CV-Download-red?logo=adobeacrobatreader&logoColor=white" alt="Resume">
-  </a>
+  <a href="https://linkedin.com/in/burakkyildiz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a> 
+  <a href="https://kaggle.com/burakkyildiz" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle" alt="Kaggle"></a> 
+  <a href="https://github.com/burakkyildiz/burakkyildiz/blob/main/Burak_Yildiz.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume%20%2F%20CV-Download-red?logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
 </p>
