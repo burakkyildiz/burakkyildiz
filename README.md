@@ -5,7 +5,7 @@ Focused on building clean, production-oriented ML systems.
 </p>
 
 **Interests**
-- Machine Learning & Deep Learning  
+- AI, Machine Learning, Deep Learning, and Data Science
 - Large Language Models (LLMs) & LangChain / RAG Systems
 - LLM-powered application development  
 
